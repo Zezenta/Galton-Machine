@@ -25,7 +25,7 @@ bool random_bool() {
 void machine()
 {
     string columns[21] = {};
-    for (int i = 0; i < 800; i++) //this has to be the number of marbles
+    for (int i = 0; i < 300; i++) //this has to be the number of marbles
     {
         int reference = 0;
         for (int k = 0; k < 20; k++)
